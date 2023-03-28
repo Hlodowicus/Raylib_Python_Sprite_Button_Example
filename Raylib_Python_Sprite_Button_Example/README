@@ -1,0 +1,11 @@
+FR------------------------------------------------------------------------------------------
+Version python de cet exemple raylib "https://www.raylib.com/examples/textures/loader.html?name=textures_sprite_button". Les assets sont différents et de bien moins bonne qualité (j'ai fait le bouton à l'arrache), mais cela n'empêche pas la bonne compréhension de l'exemple. J'ai juste ajouté un compteur qui permet de voir combien de fois vous avez appuyé sur le bouton.
+
+EN------------------------------------------------------------------------------------------
+Python version of this raylib example "https://www.raylib.com/examples/textures/loader.html?name=textures_sprite_button". The assets are different and of much lower quality (I made the button on the fly), but this does not prevent the good understanding of the example. I just added a counter to see how many times you pressed the button.
+
+IT------------------------------------------------------------------------------------------
+Versione Python di questo esempio raylib "https://www.raylib.com/examples/textures/loader.html?name=textures_sprite_button". Le risorse sono diverse e di qualità molto più scadente (ho creato il pulsante al volo), ma questo non impedisce una buona comprensione dell'esempio. Ho appena aggiunto un contatore per vedere quante volte avete premuto il pulsante.
+
+ES------------------------------------------------------------------------------------------
+Versión en Python de este ejemplo raylib "https://www.raylib.com/examples/textures/loader.html?name=textures_sprite_button". Los activos son diferentes y de mucha peor calidad (hice el botón sobre la marcha), pero eso no impide una buena comprensión del ejemplo. Acabo de añadir un contador para ver cuántas veces has pulsado el botón.
